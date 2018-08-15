@@ -1,0 +1,88 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">Fayetteville Tour Guide App</string>
+
+    <!-- Category name for fort bragg -->
+    <string name="category_fortbragg">Ft. Bragg</string>
+
+    <!-- Category name for attractions -->
+    <string name="category_attractions">To Do</string>
+
+    <!-- Category name for museums -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for events -->
+    <string name="category_events">Events</string>
+
+    <!-- Fort Bragg Fragment Strings -->
+    <string name="forcecom">U.S. Army Forces Command</string>
+    <string name="forcecom_info">(910)570-7200</string>
+    <string name="eighteenth">XVIII Airborne Corps</string>
+    <string name="eighteenth_info">(910)396-6100</string>
+    <string name="specops">US Special Operations</string>
+    <string name="specops_info">(910)432-7898</string>
+    <string name="eightysecond">82nd Airborne Division</string>
+    <string name="eightysecond_info">(910)432-0682</string>
+    <string name="commissary">Commissary</string>
+    <string name="commissary_info">(910)396-2316</string>
+    <string name="deers">DEERS</string>
+    <string name="deers_info">(910)643-2737</string>
+    <string name="exchange">Exchange</string>
+    <string name="exchange_info">(910)436-2166</string>
+    <string name="housing">Housing</string>
+    <string name="housing_info">(910)495-0878</string>
+    <string name="mwr">MWR</string>
+    <string name="mwr_info">(910)396-7632</string>
+    <string name="womack">WOMACK Army Medical Center</string>
+    <string name="womack_info">(910)907-7209</string>
+
+    <!-- Events Fragment Strings -->
+    <string name="fourth">4th Friday</string>
+    <string name="fourth_info">January - November 2018</string>
+    <string name="dickens">A Dicken\'s Holiday</string>
+    <string name="dickens_info">November 24, 2018</string>
+    <string name="blues"><![CDATA[Blues & Brews]]></string>
+    <string name="blues_info">June 2, 2018</string>
+    <string name="dogwood">Dogwood Festival</string>
+    <string name="dogwood_info">April 25-29, 2018</string>
+    <string name="field">Field of Honor</string>
+    <string name="field_info">May 11-July 7, 2018</string>
+    <string name="folk">International Folk Festival</string>
+    <string name="folk_info">September 23-24</string>
+    <string name="reading">Reading Rocks</string>
+    <string name="reading_info">October 2018</string>
+    <string name="zombie">Zombie Walk</string>
+    <string name="zombie_info">October 2018</string>
+
+    <!-- Attractions Fragment Strings -->
+    <string name="astros">Buies Creek Astros</string>
+    <string name="astros_info">Downtown Fayetteville</string>
+    <string name="crown">Crown Center Complex</string>
+    <string name="crown_info">(910)438-4100</string>
+    <string name="theater">Cape Fear Regional Theater</string>
+    <string name="theater_info">(910)323-4233</string>
+    <string name="trail">Cape Fear River Trail</string>
+    <string name="trail_info">Fayettville</string>
+    <string name="swamp">Fayetteville Swamp Dogs</string>
+    <string name="swamp_info">Fayetteville</string>
+    <string name="marksmen">Fayetteville Marksmen</string>
+    <string name="marksmen_info">Fayetteville</string>
+    <string name="hay">Hay Street</string>
+    <string name="hay_info">Downtown Fayettville</string>
+    <string name="veterans">Veterans Park</string>
+    <string name="veterans_info">Downtown Fayetteville</string>
+
+    <!-- Museums Fragment Strings -->
+    <string name="eightysecondwar">82nd War Museum</string>
+    <string name="eightysecondwar_info">(910)436-1735</string>
+    <string name="artsgallery">Arts Council Gallery</string>
+    <string name="artsgallery_info">(910)323-1776</string>
+    <string name="airbornemuseum"><![CDATA[Airborne & Special Operations Museum]]></string>
+    <string name="airbornemuseum_info">(910)643-2778</string>
+    <string name="jfk">JFK Special Warfare Museum</string>
+    <string name="jfk_info">(910)432-4272</string>
+    <string name="transportation">Transportation Museum</string>
+    <string name="transportation_info">(910)433-1457</string>
+
+
+</resources>

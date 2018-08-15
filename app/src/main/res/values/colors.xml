@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#0D47A1</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#FF5252</color>
+
+    <!-- Background color for app -->
+    <color name="gray_background">#FFFFFF</color>
+
+    <!-- Background color for the fort bragg category -->
+    <color name="category_fortbragg">#D50000</color>
+
+    <!-- Background color for the attractions category -->
+    <color name="category_attractions">#FFAB00</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#43A047</color>
+
+    <!-- Background color for the events category -->
+    <color name="category_events">#40C4FF</color>
+</resources>
